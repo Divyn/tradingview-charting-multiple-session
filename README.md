@@ -12,8 +12,6 @@ This project uses the TradingView charting library with a custom datafeed built 
 
 🧠 Caching of historical OHLC data using in-memory ohlcCache
 
-🔌 Decoupled and modular datafeed structure
-
 🧪 JSON-based data loading from `/ohlc.json`
 
 ## File Structure
